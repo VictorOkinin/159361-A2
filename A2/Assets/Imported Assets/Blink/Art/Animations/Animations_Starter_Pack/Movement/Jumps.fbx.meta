@@ -18,6 +18,12 @@ ModelImporter:
   - first:
       74: 1040030770821179939
     second: Jump_Down
+  - first:
+      74: -4936251570423720521
+    second: human_male_jumpup
+  - first:
+      74: 2734881483204571710
+    second: Jump_Up
   externalObjects: {}
   materials:
     materialImportMode: 1
@@ -63,11 +69,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: tpose
-      takeName: tpose
+      name: human_male_jumpup
+      takeName: human_male_jumpup
       internalID: 0
-      firstFrame: 0
-      lastFrame: 1
+      firstFrame: 2
+      lastFrame: 18
       wrapMode: 0
       orientationOffsetY: 0
       level: 0

@@ -9,6 +9,12 @@ ModelImporter:
   - first:
       74: 6696562598943781112
     second: StrafeRight
+  - first:
+      74: 6696562598943781112
+    second: human_male_straferight_01
+  - first:
+      74: 1671312553167048998
+    second: StrafeRight
   externalObjects: {}
   materials:
     materialImportMode: 1
@@ -39,11 +45,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: tpose
-      takeName: tpose
+      name: human_male_straferight_01
+      takeName: human_male_straferight_01
       internalID: 0
-      firstFrame: 0
-      lastFrame: 1
+      firstFrame: 2
+      lastFrame: 26
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
