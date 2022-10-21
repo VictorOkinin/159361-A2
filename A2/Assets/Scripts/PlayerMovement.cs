@@ -12,7 +12,7 @@ public class PlayerMovement : MonoBehaviour
     private float forwardSpeed = 3f, horizontalSpeed = 2f;
     private float jumpHeight = 3.75f, yVelocity;
     private bool run;
-    private float oriStepOffset = 0.3f;
+    //private float oriStepOffset = 0.3f;
     //other
     public float testFloat;
     //private float mAngleX=0, mAngleY=0;
