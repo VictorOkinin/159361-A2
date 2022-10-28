@@ -7,10 +7,10 @@ public class PlayerMovement : MonoBehaviour
     CharacterController characterController;
     //camera controll
     public Camera mainCam;
-    private float mxspeed = 120f, myspeed = 120f;
+    public float mxspeed = 120f, myspeed = 120f;
     //player movement
-    private float forwardSpeed = 3f, horizontalSpeed = 2f;
-    private float jumpHeight = 3.75f, yVelocity;
+    public float forwardSpeed = 3f, horizontalSpeed = 2f;
+    public float jumpHeight = 3.75f, yVelocity;
     private bool run;
     //private float oriStepOffset = 0.3f;
     //other
